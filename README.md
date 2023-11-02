@@ -8,16 +8,21 @@ pip install -r requirments.txt
 Introduction
 - What is Bayesian Inference?
 - Bayesian vs Frequentist Framework
+  
 Probability Refresher
 - Conditional Probabilities
 - Marginalizing
+  
 Understanding Bayesian Concepts 
 - Bayes Theorem
 - Priors
 - Likelihood
 - Posterior
+  
 Break
+
 Practical Example of a coin toss
-Bayesian Data Analysis
+
+Bayesian Linear Regression
 
 
