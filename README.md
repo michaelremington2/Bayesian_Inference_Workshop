@@ -2,6 +2,7 @@
 This is a workshop I am presenting for learning bayesian inference in python.
 
 To Download the required python packages, run the below line in the terminal after you are in the same directory as the requirments file
+
 pip install -r requirments.txt 
 
 ## Brief Outline of the Workshop
